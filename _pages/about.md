@@ -14,7 +14,8 @@ My research interests are broadly in the fields of machine learning, computer vi
 ## 📑 Selected Publications
 - **Auxiliary Diagnostic Method for Early Autism Spectrum Disorder Based on Eye Movement Data Analysis**
 <br><ins>Haoquan Fang</ins>, Lei Fan, Jenq-Neng Hwang
-<br>*CCIS 2021* [[paper]](https://ieeexplore.ieee.org/document/9754665)
+<br>*International Conference on Cloud Computing and Intelligent Systems (CCIS) 2021*
+<br>[[Paper]](https://ieeexplore.ieee.org/document/9754665)
 
 ## 💼 Professional Experience
 - **Nokia Shanghai Bell**, *Jul 2023 - Aug 2023*
@@ -28,6 +29,6 @@ My research interests are broadly in the fields of machine learning, computer vi
   - GPA: 3.99/4.00 (Straight A in All Courses), Dean’s List (All Quarters & Years)
 
 ## 🏅 Competitions & Projects
-- INRIX Amazon University Hack 2023, **ParkinGPT** [[website]](https://devpost.com/software/destchat/)
-- Kaggle - LLM Science Exam, **Silver Medal** (Top 4%) [[website]](https://www.kaggle.com/competitions/kaggle-llm-science-exam/discussion/446303/)
+- INRIX Amazon University Hack 2023, **ParkinGPT** [[Website]](https://devpost.com/software/destchat/)
+- Kaggle - LLM Science Exam, **Silver Medal** (Top 4%) [[Website]](https://www.kaggle.com/competitions/kaggle-llm-science-exam/discussion/446303/)
 - RSNA Screening Mammography Breast Cancer Detection, **Solo Silver Medal** (Top 5%)
